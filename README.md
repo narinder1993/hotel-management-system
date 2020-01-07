@@ -1,4 +1,4 @@
-The problem profile taken for this mini project is to develop a hotel website along with a hotel management system. The development of such a website is supported with the framework of Microsoft ASP.net.
+The problem profile taken for this project is to develop a hotel website along with a hotel management system. The development of such a website is supported with the framework of Microsoft ASP.net.
 This website must entitle the user (customer) to view the details of various aspects of the above said hotel and will describe all the provisions provided by the hotel authorities for the customers.
 Moreover, the user must be able to request booking online using a customer portal and must be able to check the status of the booking. This website must perform all the operations that a customer looks for in an online hotel booking website.
 On the other hand, there should be an admin portal using which the admin from the hotel authorities must manage all the accounts that a hotel needs to maintain, for example customer lists, staff information, handling requests etc.
